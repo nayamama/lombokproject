@@ -1,0 +1,1 @@
+This is a sample Lombok project that is used to minimize boilerplate code. I setup this project using maven.
